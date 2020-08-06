@@ -1,0 +1,7 @@
+{
+    "go.alternateTools": {
+        
+    },
+    "go.buildTags": "cortexm baremetal linux arm atsamd21g18 atsamd21 sam sam atsamd21g18a circuitplay_express tinygo gc.conservative scheduler.tasks",
+    "go.gopath": "C:\\tinygo"
+}
