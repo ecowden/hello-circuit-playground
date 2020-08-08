@@ -1,3 +1,8 @@
+//
+// From ws2812 driver example at
+// https://github.com/tinygo-org/drivers/blob/release/examples/ws2812/main.go
+//
+
 package main
 
 import (
