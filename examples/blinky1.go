@@ -3,8 +3,9 @@ package main
 // This is the most minimal blinky example and should run almost everywhere.
 
 import (
-	"machine"
 	"time"
+
+	"machine"
 )
 
 func main() {
