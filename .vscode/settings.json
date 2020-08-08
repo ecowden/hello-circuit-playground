@@ -4,7 +4,7 @@
     "go.formatTool": "goimports",
     "go.useLanguageServer": true,
     "go.buildTags": "cortexm baremetal linux arm atsamd21g18 atsamd21 sam sam atsamd21g18a circuitplay_express tinygo gc.conservative scheduler.tasks",
-    "go.goroot": "C:\\tinygo",
+    "go.goroot": "C:\\Users\\evan3\\AppData\\Local\\tinygo\\goroot-go1.14.6-2fd47307f89d81e078c52fce971e2278160c3f8c5f12dd093f5b050ea57d23af-syscall",
     "go.gopath": "C:\\Go;C:\\tinygo",
     "gopls": {
         "buildFlags": ["-tags=cortexm,baremetal,linux,arm,atsamd21g18,atsamd21,sam,sam,atsamd21g18a,circuitplay_express,tinygo,gc.conservative,scheduler.tasks"]
